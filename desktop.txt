@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-o muje
-=======
-muje o coptus
->>>>>>> feature
