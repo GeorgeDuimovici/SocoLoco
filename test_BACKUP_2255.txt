@@ -1,9 +1,0 @@
-Giorno Giovana
-
-the real mvp
-
-<<<<<<< HEAD
-or is it
-=======
-it is not
->>>>>>> 8bc2bda (real1)
